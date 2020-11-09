@@ -1,0 +1,296 @@
+2020-09-16 09:50:23,131 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 09:50:23,135 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9001_true,
+
+2020-09-16 09:50:23,136 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9001_true,
+
+2020-09-16 09:54:47,786 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 09:54:47,786 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 09:54:47,787 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 09:57:11,257 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 09:57:11,257 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 09:57:11,258 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 10:00:33,954 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:00:33,954 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 10:00:34,000 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:00:34,000 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9002_true,
+
+2020-09-16 10:00:34,196 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:00:34,196 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-09-16 10:00:37,539 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:00:37,539 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,
+
+2020-09-16 10:00:37,540 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,
+
+2020-09-16 10:00:37,564 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:00:37,564 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9001_true,
+
+2020-09-16 10:00:37,636 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:00:37,636 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 10:00:37,636 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 10:06:34,702 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:06:34,703 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 10:06:34,703 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 10:30:33,546 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:30:33,546 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.108:3377_true,
+
+2020-09-16 10:30:33,547 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.108:3377_true,
+
+2020-09-16 10:51:50,552 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:51:50,555 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.108:3377_true,
+
+2020-09-16 10:51:50,617 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:51:50,618 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,
+
+2020-09-16 10:51:50,642 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:51:50,642 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9001_true,
+
+2020-09-16 10:51:50,776 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:51:50,776 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 10:51:54,411 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 10:51:54,411 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 11:24:47,843 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 11:24:47,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 11:24:51,035 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 11:24:51,035 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,
+
+2020-09-16 11:24:51,039 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 11:24:51,039 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.3.108:3377_true,
+
+2020-09-16 11:24:51,044 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 11:24:51,044 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9001_true,
+
+2020-09-16 11:24:51,186 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 11:24:51,186 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.3.108:9003_true,192.168.3.108:9002_true,192.168.3.108:9001_true,
+
+2020-09-16 11:40:57,082 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 11:40:57,082 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.3.108:8401_true,
+
+2020-09-16 11:40:57,084 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.3.108:8401_true,
+
+2020-09-16 13:16:48,050 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:16:48,050 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-09-16 13:16:51,466 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:16:51,466 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.3.108:8401_true,
+
+2020-09-16 13:16:51,466 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.3.108:8401_true,
+
+2020-09-16 13:20:04,688 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:20:04,688 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:20:04,689 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:25:36,421 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:29:00,667 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:29:00,667 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:29:03,725 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:29:03,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:29:03,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:30:54,937 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:30:54,937 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:30:57,801 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:30:57,801 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:31:59,937 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:31:59,937 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:32:02,860 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:32:02,860 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:32:02,860 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:32:43,969 INFO {POS} {IP-DISABLED} valid: 192.168.3.108:84@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1600234347872
+
+2020-09-16 13:32:47,709 INFO service: DEFAULT_GROUP@@nacos-order-consumer {POS} {IP-ENABLED} valid: 192.168.3.108:84@DEFAULT, region: unknown, msg: client beat ok
+
+2020-09-16 13:33:23,083 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:33:23,083 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:33:25,986 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:33:25,986 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:33:25,986 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:33:26,404 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:33:26,404 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:33:33,579 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:33:33,579 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:33:33,579 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:35:41,192 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:35:41,192 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:35:49,341 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:35:49,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:35:49,341 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:55:24,138 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:55:24,138 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:55:27,250 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:55:27,250 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:55:27,250 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:56:42,389 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:56:42,389 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:56:45,611 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:56:45,611 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:56:45,612 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:56:59,664 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:56:59,664 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 13:57:09,158 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 13:57:09,158 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 13:57:09,159 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 14:27:25,418 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 14:27:25,418 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-09-16 14:27:26,755 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 14:27:26,755 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 14:27:28,432 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 14:27:28,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.3.108:8401_true,
+
+2020-09-16 14:27:28,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.3.108:8401_true,
+
+2020-09-16 14:27:29,882 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 14:27:29,882 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 14:27:29,882 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 14:27:44,793 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 14:27:44,793 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 14:29:33,165 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 14:29:33,165 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 14:29:33,166 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:25:09,150 INFO DEFAULT_GROUP@@serverAddr {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.87.1:8091:unknown:default_1.0_true_false_default]
+
+2020-09-16 15:25:09,150 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@serverAddr, ips: 192.168.87.1:8091_true,
+
+2020-09-16 15:39:04,560 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:39:04,560 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 15:39:07,549 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:39:07,549 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:39:07,549 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:39:19,856 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:39:19,856 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 15:40:11,961 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:40:11,961 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:40:11,962 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:40:42,974 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:40:42,974 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 15:40:52,133 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:40:52,133 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:40:52,133 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:43:16,589 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:43:16,589 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 15:43:20,080 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:43:20,080 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:43:20,080 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
+2020-09-16 15:43:20,864 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:43:20,864 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:83_true,
+
+2020-09-16 15:43:23,760 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.108:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-09-16 15:43:23,760 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.3.108:84_true,192.168.3.108:83_true,
+
